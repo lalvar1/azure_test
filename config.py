@@ -4,8 +4,8 @@ In a production deployment, this information should be saved in a database or
 other secure storage mechanism.
 """
 
-CLIENT_ID = 'b7c1d056-5662-45f5-b0e3-88c3989a613e'
-CLIENT_SECRET = 'a]_n5q9A5qde/zSSzV6aQREHA.?DyTyY'
+CLIENT_ID = 'ENTER_YOUR_ID'
+CLIENT_SECRET = 'ENTER_YOUR_SECRET'
 REDIRECT_URI = 'http://localhost:5000/login/authorized'
 REDIRECT_URI = 'https://reporter-tool.azurewebsites.net/'
 # AUTHORITY_URL ending determines type of account that can be authenticated:
